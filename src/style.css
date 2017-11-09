@@ -1,0 +1,6 @@
+a {
+  cursor: url(chrome-extension://__MSG_@@extension_id__/images/cursor.png) 4 7, auto;
+}
+a[target="_blank"] {
+  cursor: url(chrome-extension://__MSG_@@extension_id__/images/cursor-ext.png) 4 7, auto;
+}
