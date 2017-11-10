@@ -1,6 +1,6 @@
 # `target="_blank"`-toggler
 
-This extension was developped along with this [blog post](https://augustin-riedinger.fr/en/resources/thoughts-on-target-blank/).
+This extension was developped during the redaction of this [blog post](https://augustin-riedinger.fr/en/resources/thoughts-on-target-blank/). Go read it to get full-context.
 
 You can download it in official registries:
 
