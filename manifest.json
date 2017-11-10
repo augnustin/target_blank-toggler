@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Toggle target=\"_blank\" on key-press",
-  "homepage_url": "https://augustin-riedinger.fr",
+  "homepage_url": "https://augustin-riedinger.fr/en/resources/thoughts-on-target-blank",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
