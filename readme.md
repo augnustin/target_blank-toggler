@@ -4,7 +4,7 @@ This extension was developped along with this [blog post](https://augustin-riedi
 
 You can download it in official registries:
 
-- **[Chrome extension](https://chrome.google.com/webstore/detail/targetblank-toggler/emjjmkkcdllendgbldliiphlbpnomnjk/related)**
+- **[Chrome extension](https://chrome.google.com/webstore/detail/targetblank-toggler/emjjmkkcdllendgbldliiphlbpnomnjk)**
 - **[Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/target-_blank-toggler/)**
 
 ## Usage
