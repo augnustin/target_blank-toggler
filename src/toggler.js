@@ -23,9 +23,10 @@
   };
 
   if (document.documentElement.classList.contains('link-toggler')) {
-    console.log('Behavior already loaded on website')
+    console.log('Behavior already loaded on website');
     return;
   }
+  document.documentElement.classList.add('link-toggler');
 
   document.addEventListener('keydown', function(downEvent){
     if (needsToggle(downEvent)) {
@@ -35,7 +36,6 @@
       } else {
         toggleLinksTargetBlank(true);
         var onceListener = function(upEvent) {
-          console.log('Reset state');
           window.removeEventListener('blur', onceListener);
           document.removeEventListener('keyup', onceListener);
           toggleLinksTargetBlank(false);
