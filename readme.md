@@ -9,6 +9,8 @@ You can download it in official registries:
 
 ## Usage
 
+![How it works](/schema.png)
+
 It does basically two things:
 
 1. Changes the cursor to this one ![External link cursor](/images/cursor-ext.png) when hovering a `target="_blank"` link
