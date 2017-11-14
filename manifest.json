@@ -1,6 +1,6 @@
 {
   "name": "target=\"_blank\"-toggler",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "manifest_version": 2,
   "description": "Toggle target=\"_blank\" on key-press",
   "homepage_url": "https://augustin-riedinger.fr/en/resources/thoughts-on-target-blank",
