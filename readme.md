@@ -14,14 +14,13 @@ You can download it in official registries:
 It does basically two things:
 
 1. Changes the cursor to this one ![External link cursor](/images/cursor-ext.png) when hovering a `target="_blank"` link
-2. Toggles the `target="_blank"` attributes on links while pressing `x`
+2. Toggles the `target="_blank"` attributes on links while pressing `Ctrl`/`Cmd` + `Shift`
 
 ## TODO
 
 Contributions welcome! Here's what would be nice:
 
-- being able to customize the key (simple)
-- being able to customize the cursors (harder)
+- being able to customize the cursors
 
 ## Licence
 
