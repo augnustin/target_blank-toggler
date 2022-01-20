@@ -5,7 +5,7 @@ This extension was developped during the redaction of this [blog post](https://a
 You can download it in official registries:
 
 - **[Chrome extension](https://chrome.google.com/webstore/detail/targetblank-toggler/emjjmkkcdllendgbldliiphlbpnomnjk)**
-- **[Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/target-_blank-toggler/)**
+- **[Firefox extension](https://addons.mozilla.org/firefox/addon/target-_blank-toggler/)**
 
 ## Usage
 
